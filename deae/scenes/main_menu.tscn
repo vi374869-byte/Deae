@@ -2,7 +2,7 @@
 
 [ext_resource type="Script" uid="uid://c8xc7u1frq0v0" path="res://scripts/main_menu.gd" id="1_menu"]
 [ext_resource type="Texture2D" uid="uid://cp7epaogbk8ac" path="res://art/menu_background.png" id="2_bg"]
-[ext_resource type="Texture2D" path="res://art/title.png" id="3_title"]
+[ext_resource type="Texture2D" uid="uid://c84oemi2ksokw" path="res://art/title.png" id="3_title"]
 
 [sub_resource type="StyleBoxEmpty" id="btn_focus"]
 
